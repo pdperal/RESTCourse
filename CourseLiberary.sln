@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseLiberary.API", "CourseLiberary.API\CourseLiberary.API.csproj", "{C8C7C8CD-29C9-4543-9E95-5EDB096EC787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C7C8CD-29C9-4543-9E95-5EDB096EC787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C7C8CD-29C9-4543-9E95-5EDB096EC787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C7C8CD-29C9-4543-9E95-5EDB096EC787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C7C8CD-29C9-4543-9E95-5EDB096EC787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E49371FE-0E2C-4DB3-AFD0-0790376EA477}
+	EndGlobalSection
+EndGlobal
