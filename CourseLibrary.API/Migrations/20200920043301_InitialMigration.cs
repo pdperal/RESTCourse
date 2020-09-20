@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace CourseLiberary.API.Migrations
+namespace CourseLibrary.API.Migrations
 {
     public partial class InitialMigration : Migration
     {

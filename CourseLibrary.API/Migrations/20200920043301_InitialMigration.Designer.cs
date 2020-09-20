@@ -7,10 +7,10 @@ using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
-namespace CourseLiberary.API.Migrations
+namespace CourseLibrary.API.Migrations
 {
     [DbContext(typeof(CourseLibraryContext))]
-    [Migration("20200916020937_InitialMigration")]
+    [Migration("20200920043301_InitialMigration")]
     partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
